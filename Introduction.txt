@@ -1,0 +1,11 @@
+# Introduction
+--------------
+
+* What is propmt hacking?
+-------------------------
+Prompt Hacking --> Changing the way LLMS models operate, by manipulating the answers they give you.
+
+This can be used to expose data from the users, using malicious prompts.
+
+It is necessary to implement a AI security plan to deal with these issues.
+
