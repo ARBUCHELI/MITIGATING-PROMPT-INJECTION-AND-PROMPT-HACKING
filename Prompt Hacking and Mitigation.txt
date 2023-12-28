@@ -1,2 +1,26 @@
 1. Prompt Hacking and Mitigation
 --------------------------------
+
+* Prompt Hacking Techniques
+---------------------------
+
+Let's Pretend
+-------------
+A hacker can ask ChatGPT to assist with doing something ilegall by telling the system that he is writing a fiction book.
+
+Prompt Leaking
+--------------
+Leak internal data from a company's resources in order to gain access to sensitive or confidential information.
+
+Document Completion
+-------------------
+A hacker can provide the system, instructions asking the LLMS to complete some document about internal data you want to know.
+
+Jail Breaking
+-------------
+Techniques hacker use to bypass existing migitations and get the LLMS to disregard existing guardrails built into their system.
+
+A target without proper mitigation measures becomes irresistible to hackers looking to prove themselves.
+
+
+
