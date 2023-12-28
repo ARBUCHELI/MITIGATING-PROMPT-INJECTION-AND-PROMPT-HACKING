@@ -22,5 +22,15 @@ Techniques hacker use to bypass existing migitations and get the LLMS to disrega
 
 A target without proper mitigation measures becomes irresistible to hackers looking to prove themselves.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Mitigating prompt hacking attacks
+-----------------------------------
+This should be part of a proper cybersecurity strategy.
+
+	- Filtering the input (words or phrases like hypotetically, behave as a, let's pretend, ignore previous requests)
+	- Translate binary into English (with hidden attacks inside).
+	- Splitting the input, and then asking the system to concanate it or reverse it and manipulating in diverse forms.
+
 
 
