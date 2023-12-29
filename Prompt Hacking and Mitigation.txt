@@ -32,5 +32,19 @@ This should be part of a proper cybersecurity strategy.
 	- Translate binary into English (with hidden attacks inside).
 	- Splitting the input, and then asking the system to concanate it or reverse it and manipulating in diverse forms.
 
+Other malicious techniques:
+
+	- Receiving malicious code from an url, or a an external third party.
+
+Try to only allow short prompts.
+
+Isolate the user input before you feed it to the LLM.
+
+Separate the user input from your own instructions --> This can give the instructions less weight than your own instructions.
+
+Try to scape characters in the prompts in order to replace opening or closing tags.
+
+Proxy the prompts to another LLM system to detect anomalies could be a good strategy too.
+
 
 
